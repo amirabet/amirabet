@@ -2,7 +2,7 @@
 #### UX / FrontEnd / Design
 *__“Capacidad empática para anticipar las necesidades del usuario y para  comprender los requisitos de cada uno de los equipos implicados en el desarrollo del proyecto. Interés por el detalle y los buenos acabados. Resolución de problemas."__*
 ##
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://be.net/amirabet) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/amirabet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/amirabet) 
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/amirabet) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/amirabet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/amirabet) 
 
 
 
