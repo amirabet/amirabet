@@ -1,11 +1,6 @@
 # ☘️ Artur Mirabet
-**UX / FrontEnd / Designer**
-
-## UX / FrontEnd / Designer
 ### UX / FrontEnd / Designer
-#### UX / FrontEnd / Designer
-##### UX / FrontEnd / Designer
-###### UX / FrontEnd / Designer
+
 
 <!--
 **amirabet/amirabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
