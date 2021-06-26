@@ -1,5 +1,7 @@
 # ☘️ Artur Mirabet
-### 🗺 UX / 👨‍💻 FrontEnd / 👨🏻‍🎨 Design
+#### 🗺 UX / 👨‍💻 FrontEnd / 👨🏻‍🎨 Design
+
+*__ “Capacidad empática para anticipar las necesidades del usuario y para  comprender los requisitos de cada uno de los equipos implicados en el desarrollo del proyecto. Interés por el detalle y los buenos acabados. Resolución de problemas." __*
 
 
 <!--
