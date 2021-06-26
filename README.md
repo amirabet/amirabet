@@ -4,7 +4,7 @@
 *__“Capacidad empática para anticipar las necesidades del usuario y para  comprender los requisitos de cada uno de los equipos implicados en el desarrollo del proyecto. Interés por el detalle y los buenos acabados. Resolución de problemas."__*
 
 ##
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)   ![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=LinkedIn&logoColor=white)  ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)  
 
 
 <!--
