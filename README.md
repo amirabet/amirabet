@@ -1,5 +1,5 @@
 # ☘️ Artur Mirabet
-### UX / FrontEnd / Designer
+#### UX 🗺 / FrontEnd 👨‍💻 / Designer 👨🏻‍🎨
 
 
 <!--
