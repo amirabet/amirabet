@@ -1,5 +1,5 @@
 
-# Artur Mirabet
+## Artur Mirabet
 > ### FrontEnd developer
 
 *__“Methodical and meticulous, I enjoy my work in an environment of eustress and good ambience where build, with my colleagues, digital products that provide value to the end user.”__*
